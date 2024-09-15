@@ -79,7 +79,7 @@ GitHub for code version control
 - Users can input their age, BMI, number of children, smoking habits, and region.
 - The app will predict the medical charges using the pre-trained model.
   
-**Link to the Live App:** https://medical-charges-prediction-randomforestregression-7y88izrjpwrr.streamlit.app/
+**Link to the Live App:** https://medicalcharges-prediction-random-forest-regression-u9bhntftna2.streamlit.app/
 
 ### Challenges Faced
 
