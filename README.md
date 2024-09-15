@@ -61,7 +61,7 @@
 
 **R-squared:** 0.87 (model explains 85% of the variance in the data)
 
-**Mean Squared Error (MSE):** 2247
+**Mean Squared Error (MSE):** 2436
 
 - Cross-validation was used to avoid overfitting
 
