@@ -59,7 +59,7 @@
 
 #### **Performance Metrics:**
 
-**R-squared:** 0.87 (model explains 85% of the variance in the data)
+**R-squared:** 0.93 (model explains 93% of the variance in the data)
 
 **Mean Squared Error (MSE):** 2436
 
