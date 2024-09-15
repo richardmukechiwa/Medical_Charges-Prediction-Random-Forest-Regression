@@ -58,18 +58,25 @@
 
 #### **Performance Metrics:**
 
-R-squared: 0.85 (model explains 85% of the variance in the data)
-Mean Squared Error (MSE): 1200000
-Cross-validation was used to avoid overfitting.
-Feature Importance: Based on the model, smoker, age, and bmi were the most important factors in predicting medical charges.
-7. Deployment Process
-Tools Used:
+**R-squared:** 0.87 (model explains 85% of the variance in the data)
+
+**Mean Squared Error (MSE):** 2247
+
+**Feature Importance:** Based on the model, smoker, age, and bmi were the most important factors in predicting medical charges.
+
+### Deployment Process
+
+**Tools Used:**
+
 Streamlit for web app creation and deployment
 GitHub for code version control
-How to Use the App:
-Users can input their age, BMI, number of children, smoking habits, and region.
-The app will predict the medical charges using the pre-trained model.
-Link to the Live App: [your-app-link]
+
+**How to Use the App:**
+
+- Users can input their age, BMI, number of children, smoking habits, and region.
+- The app will predict the medical charges using the pre-trained model.
+  
+**Link to the Live App:** [your-app-link]
 8. Challenges Faced
 Handling class imbalance due to fewer smokers in the dataset.
 Tuning the model without overfitting required careful cross-validation.
