@@ -76,13 +76,21 @@ GitHub for code version control
 - Users can input their age, BMI, number of children, smoking habits, and region.
 - The app will predict the medical charges using the pre-trained model.
   
-**Link to the Live App:** [your-app-link]
-8. Challenges Faced
-Handling class imbalance due to fewer smokers in the dataset.
-Tuning the model without overfitting required careful cross-validation.
-9. Future Improvements
-Integrate more features, such as lifestyle or diet-related variables, to improve prediction accuracy.
-Expand the app by including visualizations and comparative analysis with other models.
-Refine the user interface for better usability.
-10. Conclusion
+**Link to the Live App:** https://medical-charges-prediction-randomforestregression-7y88izrjpwrr.streamlit.app/
+
+### Challenges Faced
+
+- Handling one hot coded variables
+- deploying the model
+
+### Future Improvements
+
+- there is need to integrate more features, such as lifestyle or diet-related variables, to improve prediction accuracy.
+  
+- Refine the user interface for better usability.
+
+## Conclusion
+
 The Random Forest model successfully predicts medical charges with good accuracy, and the Streamlit app provides a simple and intuitive interface for users. This project demonstrates my skills in data preprocessing, model development, and web app deployment, which are highly relevant to solving business problems.
+
+### Thank you.
