@@ -55,6 +55,8 @@
 
 **Why Random Forest?:** Given the non-linear relationships in the data, Random Forest performed well in capturing the complexity of the features.
 
+**Model Tuning:** Hyperparameter tuning was performed using GridSearchCV to optimize the number of estimators and tree depth.
+
 ### Evaluation Metrics
 
 #### **Performance Metrics:**
