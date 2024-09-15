@@ -32,20 +32,32 @@
 
 **charges:** Medical charges
 
-Exploratory Data Analysis (EDA):
-Distribution of charges is right-skewed.
-Smokers tend to have higher charges on average.
-BMI positively correlates with charges.
-4. Data Preprocessing
-One-Hot Encoding: Categorical features sex, smoker, and region were one-hot encoded to ensure they could be properly used by the model.
-Feature Scaling: Standardization was considered, but Random Forest does not require scaling, so it was omitted.
-Handling Missing Data: No missing data in the provided dataset.
-5. Model Selection
-Model Used: Random Forest Regression
-Why Random Forest?: Given the non-linear relationships in the data, Random Forest performed well in capturing the complexity of the features.
-Model Tuning: Hyperparameter tuning was performed using GridSearchCV to optimize the number of estimators and tree depth.
-6. Evaluation Metrics
-Performance Metrics:
+### Exploratory Data Analysis (EDA):
+
+- Distribution of charges is right-skewed/ positive skewnessness
+  
+- Smokers tend to have higher charges on average.
+
+- The northeast region has highest charges
+
+- Those with more dependances has low charges where as those without children have the highest charges
+  
+### Data Preprocessing
+
+**One-Hot Encoding:** Categorical features sex, smoker, and region were one-hot encoded to ensure they could be properly used by the model.
+
+**Handling Missing Data:**  No missing data in the provided dataset.
+
+### Model Selection
+
+**Models Used:** Multi-LinearRegression, Ridge, Lasso and Random Forest Regression
+
+**Why Random Forest?:** Given the non-linear relationships in the data, Random Forest performed well in capturing the complexity of the features.
+
+### Evaluation Metrics
+
+#### **Performance Metrics:**
+
 R-squared: 0.85 (model explains 85% of the variance in the data)
 Mean Squared Error (MSE): 1200000
 Cross-validation was used to avoid overfitting.
