@@ -1,5 +1,5 @@
 
-# Medical Charges Prediction Project - Final Report
+# Medical Charges Prediction Project 
 
 ### Project Overview
 
