@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Medical Charges Prediction Project - Final Report
 
 ### Project Overview
@@ -7,7 +7,7 @@
 
 **Objective:** Predict medical charges based on patient demographic and lifestyle data such as age, BMI, number of children, smoking habits, and region.
 
-**Deployed App:** https://medical-charges-prediction-randomforestregression-7y88izrjpwrr.streamlit.app/
+**Deployed App:** https://medicalcharges-prediction-random-forest-regression-u9bhntftna2.streamlit.app/
 
  ### Problem Statement
  
