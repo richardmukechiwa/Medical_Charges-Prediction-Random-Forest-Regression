@@ -19,11 +19,17 @@
 #### The dataset includes variables like:
 
 **age:** Age of the patient
+
 **sex:** Gender of the patient (male/female)
+
 **bmi:** Body Mass Index
+
 **children:** Number of children/dependents
+
 **smoker:** Smoking status (yes/no)
+
 **region:** Geographical region (northeast, northwest, southeast, southwest)
+
 **charges:** Medical charges
 
 Exploratory Data Analysis (EDA):
