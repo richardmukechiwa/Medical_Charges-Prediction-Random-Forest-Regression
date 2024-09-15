@@ -8,12 +8,15 @@
 
 **Deployed App:** https://medical-charges-prediction-randomforestregression-7y88izrjpwrr.streamlit.app/
 
-GitHub Repository: Link to GitHub Repository
-2. Problem Statement
-Medical expenses vary based on demographic and lifestyle factors. By building a predictive model, we aim to help medical insurance companies estimate patient costs and allocate resources more effectively.
+ ### Problem Statement
+ 
+- Medical expenses vary based on demographic and lifestyle factors. By building a predictive model, I aim to help medical insurance companies estimate patient costs and allocate resources more effectively.
 
-3. Data Description
-Source: The dataset includes variables like:
+### Data Description
+
+**Source:** https://www.kaggle.com/datasets/simranjain17/insurance
+
+The dataset includes variables like:
 age: Age of the patient
 sex: Gender of the patient (male/female)
 bmi: Body Mass Index
