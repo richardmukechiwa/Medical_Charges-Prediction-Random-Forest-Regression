@@ -6,7 +6,8 @@
 
 **Objective:** Predict medical charges based on patient demographic and lifestyle data such as age, BMI, number of children, smoking habits, and region.
 
-Deployed App: Link to Streamlit App
+**Deployed App:** https://medical-charges-prediction-randomforestregression-7y88izrjpwrr.streamlit.app/
+
 GitHub Repository: Link to GitHub Repository
 2. Problem Statement
 Medical expenses vary based on demographic and lifestyle factors. By building a predictive model, we aim to help medical insurance companies estimate patient costs and allocate resources more effectively.
