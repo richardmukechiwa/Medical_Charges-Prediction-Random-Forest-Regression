@@ -97,6 +97,3 @@ GitHub for code version control
 The Random Forest model successfully predicts medical charges with good accuracy, and the Streamlit app provides a simple and intuitive interface for users. This project demonstrates my skills in data preprocessing, model development, and web app deployment, which are highly relevant to solving business problems.
 
 ### Thank you.
-=======
-# Medical_Charges-Prediction-Random-Forest-Regression
->>>>>>> new-branch
