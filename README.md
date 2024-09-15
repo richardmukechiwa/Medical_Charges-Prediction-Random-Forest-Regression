@@ -1,8 +1,11 @@
 # Medical Charges Prediction Project - Final Report
 
 ### Project Overview
+
 **Project Name:** Medical Charges Prediction using Random Forest Regression
+
 **Objective:** Predict medical charges based on patient demographic and lifestyle data such as age, BMI, number of children, smoking habits, and region.
+
 Deployed App: Link to Streamlit App
 GitHub Repository: Link to GitHub Repository
 2. Problem Statement
