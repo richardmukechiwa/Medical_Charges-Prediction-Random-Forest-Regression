@@ -62,6 +62,8 @@
 
 **Mean Squared Error (MSE):** 2247
 
+- Cross-validation was used to avoid overfitting
+
 **Feature Importance:** Based on the model, smoker, age, and bmi were the most important factors in predicting medical charges.
 
 ### Deployment Process
