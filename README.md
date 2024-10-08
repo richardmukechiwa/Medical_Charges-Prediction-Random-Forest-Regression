@@ -1,5 +1,5 @@
 # Medical Charges Prediction Project 
-[medicalbillsprediction](https://github.com/richardmukechiwa/Medical_Charges-Prediction-Random-Forest-Regression/blob/main/medicalcharges.jpg)
+![medicalbillsprediction](https://github.com/richardmukechiwa/Medical_Charges-Prediction-Random-Forest-Regression/blob/main/medicalcharges.jpg)
 
 ### Project Overview
 
