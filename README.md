@@ -1,4 +1,4 @@
-[medicalbillsprediction]()
+[medicalbillsprediction](https://github.com/richardmukechiwa/Medical_Charges-Prediction-Random-Forest-Regression/blob/main/medicalcharges.jpg)
 # Medical Charges Prediction Project 
 
 ### Project Overview
